@@ -1,3 +1,4 @@
+http://example.com/Alien/systeminfo.html
 http://example.com/2023/06/06/%E3%80%90Tool%E3%80%91SiteHunter/
 http://example.com/2023/06/06/%E3%80%90Tech%E3%80%91%E4%B8%80%E5%8F%A5%E8%A9%B1%E6%9C%A8%E9%A6%AC/
 http://example.com/Alien/index.html
@@ -9,7 +10,6 @@ http://example.com/Alien/filemanager.html
 http://example.com/nonense/index.html
 http://example.com/2023/06/06/%E3%80%90Tool%E3%80%91Alien/
 http://example.com/Pentest/index.html
-http://example.com/Alien/systeminfo.html
 http://example.com/Tools/%E3%80%90Tool%E3%80%91SiteHunter.html
 http://example.com/Tools/%E3%80%90Tool%E3%80%91Alien.html
 http://example.com/2023/06/06/%E3%80%90Tech%E3%80%91%E6%8E%9B%E9%BB%91%E9%A0%81/
