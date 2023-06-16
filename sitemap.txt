@@ -1,3 +1,5 @@
+http://example.com/Tools/%E3%80%90Tool%E3%80%91Alien.html
+http://example.com/Tools/index.html
 http://example.com/2023/06/14/%E3%80%90Code%E3%80%91CSharpInvokeMethod/
 http://example.com/2023/06/12/%E3%80%90Nonsense%E3%80%91hack-entertain/
 http://example.com/2023/06/12/%E3%80%90Tech%E3%80%91-PenTest-phpmyadmingetshell/
@@ -17,12 +19,10 @@ http://example.com/Alien/monitor.html
 http://example.com/Alien/database.html
 http://example.com/2023/06/06/%E3%80%90Tool%E3%80%91Alien/
 http://example.com/Tools/%E3%80%90Tool%E3%80%91SiteHunter.html
-http://example.com/Tools/%E3%80%90Tool%E3%80%91Alien.html
 http://example.com/2023/06/06/%E3%80%90Tech%E3%80%91%E6%8E%9B%E9%BB%91%E9%A0%81/
 http://example.com/BlackHat/index.html
 http://example.com/tags/index.html
 http://example.com/categories/index.html
-http://example.com/Tools/index.html
 http://example.com/
 http://example.com/tags/Alien/
 http://example.com/tags/webshell/
