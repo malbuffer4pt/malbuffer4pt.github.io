@@ -47,6 +47,9 @@ http://example.com/tags/dos/
 http://example.com/tags/nonsense/
 http://example.com/tags/thinking/
 http://example.com/tags/hacker/
+http://example.com/tags/Code/
+http://example.com/tags/C/
+http://example.com/tags/Program/
 http://example.com/categories/Tools/
 http://example.com/categories/BlackHat/
 http://example.com/categories/Code/
