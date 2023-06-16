@@ -1,3 +1,4 @@
+http://example.com/2023/06/14/%E3%80%90Code%E3%80%91CSharpInvokeMethod/
 http://example.com/2023/06/12/%E3%80%90Nonsense%E3%80%91hack-entertain/
 http://example.com/2023/06/12/%E3%80%90Tech%E3%80%91-PenTest-phpmyadmingetshell/
 http://example.com/2023/06/12/%E3%80%90BlackHat%E3%80%91DoSandDDoS/
