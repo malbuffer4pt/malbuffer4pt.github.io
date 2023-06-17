@@ -1,8 +1,8 @@
+http://example.com/2023/06/14/%E3%80%90Code%E3%80%91CSharpInvokeMethod/
+http://example.com/2023/06/12/%E3%80%90Tech%E3%80%91-PenTest-phpmyadmingetshell/
 http://example.com/Tools/%E3%80%90Tool%E3%80%91Alien.html
 http://example.com/Tools/index.html
-http://example.com/2023/06/14/%E3%80%90Code%E3%80%91CSharpInvokeMethod/
 http://example.com/2023/06/12/%E3%80%90Nonsense%E3%80%91hack-entertain/
-http://example.com/2023/06/12/%E3%80%90Tech%E3%80%91-PenTest-phpmyadmingetshell/
 http://example.com/2023/06/12/%E3%80%90BlackHat%E3%80%91DoSandDDoS/
 http://example.com/Alien/filemanager.html
 http://example.com/2023/06/12/%E3%80%90Tech%E3%80%91-SQL-SQL%E6%B3%A8%E5%85%A5%E5%8F%96%E5%BE%97%E4%BD%BF%E7%94%A8%E8%80%85%E5%B8%B3%E8%99%9F%E5%AF%86%E7%A2%BC%E7%9A%84%E6%96%B9%E6%B3%95/
@@ -50,6 +50,9 @@ http://example.com/tags/hacker/
 http://example.com/tags/Code/
 http://example.com/tags/C/
 http://example.com/tags/Program/
+http://example.com/tags/php/
+http://example.com/tags/phpmyadmin/
+http://example.com/tags/getshell/
 http://example.com/categories/Tools/
 http://example.com/categories/BlackHat/
 http://example.com/categories/Code/
