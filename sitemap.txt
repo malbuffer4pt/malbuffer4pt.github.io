@@ -54,6 +54,10 @@ http://example.com/tags/Alien/
 http://example.com/tags/html/
 http://example.com/tags/blackhat/
 http://example.com/tags/deface-page/
+http://example.com/tags/DDoS/
+http://example.com/tags/StressTest/
+http://example.com/tags/DoS/
+http://example.com/tags/PHP/
 http://example.com/categories/Code/
 http://example.com/categories/Nonsense/
 http://example.com/categories/Tools/
