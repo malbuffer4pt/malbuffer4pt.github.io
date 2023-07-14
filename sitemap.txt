@@ -1,8 +1,9 @@
+http://example.com/2023/07/13/%E3%80%90Tool%E3%80%91LazyUrl2TXT/
+http://example.com/Tools/index.html
 http://example.com/2023/07/02/%E3%80%90Tool%E3%80%91TyrantDDoS/
 http://example.com/2023/06/14/%E3%80%90Code%E3%80%91CSharpInvokeMethod/
 http://example.com/2023/06/12/%E3%80%90Tech%E3%80%91-PenTest-phpmyadmingetshell/
 http://example.com/Tools/%E3%80%90Tool%E3%80%91Alien.html
-http://example.com/Tools/index.html
 http://example.com/2023/06/12/%E3%80%90Nonsense%E3%80%91hack-entertain/
 http://example.com/2023/06/12/%E3%80%90BlackHat%E3%80%91DoSandDDoS/
 http://example.com/Alien/filemanager.html
@@ -58,6 +59,8 @@ http://example.com/tags/DDoS/
 http://example.com/tags/StressTest/
 http://example.com/tags/DoS/
 http://example.com/tags/PHP/
+http://example.com/tags/Miscellaneous/
+http://example.com/tags/Tools/
 http://example.com/categories/Code/
 http://example.com/categories/Nonsense/
 http://example.com/categories/Tools/
